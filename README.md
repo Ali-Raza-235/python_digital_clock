@@ -1,6 +1,10 @@
 # python_digital_clock
 ## Digital Clock in Python
 
+
+![image](https://github.com/Ali-Raza-235/python_digital_clock/assets/167517983/6f7c4efe-afc0-43d0-9b88-b75e8d75583e)
+
+
 This Python script implements a simple digital clock that displays the current time in a 24-hour format. The script uses the `tkinter` library to create a graphical user interface (GUI) window to display the clock.
 
 ## Features:
